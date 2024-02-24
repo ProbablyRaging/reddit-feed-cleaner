@@ -4,7 +4,7 @@
 Clean up your Reddit feed by filtering out unwanted posts by using custom keywords and link filtering
 
 ## Installation - Chrome Web Store
-Coming soon..
+Install the latest stable version directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/reddit-feed-cleaner/lfeekbkgfbkkkcokfdhdekcgpjjfajai)
 
 ## Installation - Unpacked Extension
 <img width=350 style="align: center" src="https://i.imgur.com/RBUP2pE.png">
